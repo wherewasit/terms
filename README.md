@@ -4,12 +4,12 @@ These terms and conditions ("Terms") govern the use of and subscription to the W
 ## 1. Free Credits and Subscription
 1.1 The Extension offers a trial period through the provision of free credits. These free credits are provided to users for the purpose of experiencing the features of the Extension before committing to a subscription.
 
-1.2 Upon purchasing a subscription, all transactions are final and non-refundable.
+1.2 Subscription purchases are final.
 
 ## 2. Extension Functionality
 2.1 The WhereWasIt Chrome Extension interacts with the target websites (e.g. YouTube) to obtain captions on behalf of the user. This feature is designed to enhance the user experience by eliminating the need to obtain the captions manually.
 
-2.2 In the event that technical or legal constraints arise, rendering the retrieval of captions technically or legally impossible, or if changes to target websites disrupt this feature, the affected feature may become temporarily unavailable until a suitable solution is identified.
+2.2 In the event that technical or legal constraints arise, rendering the retrieval of captions technically or legally impossible, or if changes to target websites disrupt this feature, the affected feature may become temporarily unavailable until a suitable solution is found.
 
 2.3 If restoration of the captions retrieval feature proves infeasible, the Extension may continue to offer its searching capability until the end of the user's subscription period. In such cases, users shall not be entitled to any form of compensation.
 
@@ -34,4 +34,4 @@ These Terms are governed by and construed in accordance with the principles of i
 ## Contact Information
 If you have any questions or concerns about these Terms, please contact us at feedback@wherewasit.xyz.
 
-Revised: August 14, 2023, at 14:18 UTC.
+Revised: August 14, 2023, at 14:46 UTC.
