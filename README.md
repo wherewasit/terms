@@ -31,7 +31,37 @@ These terms and conditions ("Terms") govern the use of and subscription to the W
 ## 6. Governing Law
 These Terms are governed by and construed in accordance with the principles of international law, without regard to its conflict of law principles.
 
+## 7. Privacy Policy
+
+We are committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, and safeguard the personal information you provide when using the Extension.
+
+**Information We Collect**
+
+When you sign in, we collect the following personal information:
+
+- Your email address
+- Your name
+- Your profile picture.
+
+**How We Use Your Information**
+
+We use the collected information for the following purposes:
+
+- To personalize your experience with the Extension
+- To provide you with relevant updates, news, and information related to the Extension
+- To respond to your inquiries and provide customer support
+- To improve our Extension and enhance user experience
+- To send you administrative notifications, such as updates to these Terms of Service.
+
+**Data Sharing and Disclosure**
+
+We do not share, sell, or disclose your personal information to any third party, except as follows:
+
+- With your explicit consent
+- To comply with legal obligations, such as responding to lawful requests from public authorities
+- To protect our rights, privacy, safety, or property, or that of our users or the public.
+
 ## Contact Information
 If you have any questions or concerns about these Terms, please contact us at feedback@wherewasit.xyz.
 
-Revised: August 14, 2023, at 14:46 UTC.
+Revised: August 19, 2023, at 19:03 UTC
