@@ -12,7 +12,15 @@ These terms and conditions ("Terms") govern the use of the WhereWasIt Chrome Ext
 
 1.5 Both free and purchased credits are subject to the expiry date. Once the credits expire, they are subject to removal from the account.
 
-1.6 The exchange rates of credits for the services provided by the Extension are subject to change without prior notice. Nonetheless, the provider will make every effort to inform users at least 48 hours before the changes take effect, by utilizing one or more of the following methods:
+1.6 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
+
+1.7 The rates are subject to change. Furthermore:
+
+- Currently flat rates may become dependent on factors like the amount of indexed content.
+- Currently dependent rates may change to either flat rates or to depend on another set of factors.
+- Storage, account, and other fees not presently in effect, may be introduced.
+
+1.8 The provider will make every effort to inform users at least 48 hours before the updated rates take effect, by utilizing one or more of the following methods:
 
 - By sending an email to the user's registered email address.
 - By displaying a notification within the Extension.
@@ -89,4 +97,4 @@ We do not share, sell, or disclose your personal information to any third party,
 ## Contact Information
 If you have any questions or concerns about these Terms, please contact us at feedback@wherewasit.xyz.
 
-Revised: October 20, 2023 at 12:35 UTC
+Revised: November 28, 2023 at 14:30 UTC
