@@ -12,15 +12,17 @@ These terms and conditions ("Terms") govern the use of the WhereWasIt Chrome Ext
 
 1.5 Both free and purchased credits are subject to the expiry date. Once the credits expire, they are subject to removal from the account.
 
-1.6 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
+1.6 An account with no valid credits is considered inactive. Once an account is inactive, we will keep the account for a grace period of one month. After that grace period, the account is subject to removal. Once an account is removed, it will not be possible to restore the indexed contents associated with that account.
 
-1.7 The rates are subject to change. Furthermore:
+1.7 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
+
+1.8 The rates are subject to change. Furthermore:
 
 - Currently flat rates may become dependent on factors like the amount of indexed content.
 - Currently dependent rates may change to either flat rates or to depend on another set of factors.
 - Storage, account, and other fees not presently in effect, may be introduced.
 
-1.8 The provider will make every effort to inform users at least 48 hours before the updated rates take effect, by utilizing one or more of the following methods:
+1.9 The provider will make every effort to inform users at least 48 hours before the updated rates take effect, by utilizing one or more of the following methods:
 
 - By sending an email to the user's registered email address.
 - By displaying a notification within the Extension.
