@@ -14,59 +14,60 @@ These terms and conditions ("Terms") govern the use of the WhereWasIt Chrome Ext
 
 1.6 An account with no valid credits is considered inactive. Once an account is inactive, we will keep the account for a grace period of one month. After that grace period, the account is subject to removal. Once an account is removed, it will not be possible to restore the indexed contents associated with that account.
 
-1.7 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
+## 2. Rates
+2.1 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
 
-1.8 The rates are subject to change. Furthermore:
+2.2 The rates are subject to change. Furthermore:
 
 - Currently flat rates may become dependent on factors like the amount of indexed content.
 - Currently dependent rates may change to either flat rates or to depend on another set of factors.
 - Storage, account, and other fees not presently in effect, may be introduced.
 
-1.9 The provider will make every effort to inform users at least 48 hours before the updated rates take effect, by utilizing one or more of the following methods:
+2.3 The provider will make every effort to inform users at least 48 hours before the updated rates take effect, by utilizing one or more of the following methods:
 
 - By sending an email to the user's registered email address.
 - By displaying a notification within the Extension.
 
 This 48-hour notice period allows users to review the changes and make any necessary adjustments to their usage or credit purchases in response to the rate change. It's part of our commitment to transparency and fairness.
 
-## 2. Extension Functionality
-2.1 The Extension interacts with the target websites (e.g. YouTube) to obtain captions on behalf of the user. This feature is designed to enhance the user experience by eliminating the need to obtain the captions manually.
+## 3. Extension Functionality
+3.1 The Extension interacts with the target websites (e.g. YouTube) to obtain captions on behalf of the user. This feature is designed to enhance the user experience by eliminating the need to obtain the captions manually.
 
-2.2 In the event that technical or legal constraints arise, rendering the retrieval of captions technically or legally impossible, or if changes to target websites disrupt this feature, the affected feature may become temporarily unavailable until a suitable solution is found. In such cases, the provider will make every effort to inform users as soon as possible, utilizing one or more of the following methods:
+3.2 In the event that technical or legal constraints arise, rendering the retrieval of captions technically or legally impossible, or if changes to target websites disrupt this feature, the affected feature may become temporarily unavailable until a suitable solution is found. In such cases, the provider will make every effort to inform users as soon as possible, utilizing one or more of the following methods:
 
 - By sending an email to the user's registered email address.
 - By displaying a notification within the Extension.
 
 The provider aims to provide this notification within a reasonable timeframe considering the specific circumstances.
 
-2.3 If restoration of the captions retrieval feature proves infeasible, the Extension may continue to offer its searching capability. In such cases, users shall not be entitled to any form of compensation.
+3.3 If restoration of the captions retrieval feature proves infeasible, the Extension may continue to offer its searching capability. In such cases, users shall not be entitled to any form of compensation.
 
-## 3. User Responsibilities
-3.1 Users are responsible for their usage of the Extension and for ensuring that their use complies with applicable laws, regulations, and the terms outlined in this document.
+## 4. User Responsibilities
+4.1 Users are responsible for their usage of the Extension and for ensuring that their use complies with applicable laws, regulations, and the terms outlined in this document.
 
-3.2 Users must refrain from using the Extension for any unlawful, unethical, or malicious purposes, including but not limited to infringing upon copyright, privacy, or other rights of third parties.
+4.2 Users must refrain from using the Extension for any unlawful, unethical, or malicious purposes, including but not limited to infringing upon copyright, privacy, or other rights of third parties.
 
-3.3 Failure to comply with the responsibilities outlined in items 3.1 and 3.2 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users.
+4.3 Failure to comply with the responsibilities outlined in items 3.1 and 3.2 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users.
 
-## 4. Modification of Terms
-4.1 These Terms may be revised or updated from time to time. The provider will make every effort to inform users of significant changes to these Terms at least 48 hours before the significant changes take effect, by utilizing one or more of the following methods:
+## 5. Modification of Terms
+5.1 These Terms may be revised or updated from time to time. The provider will make every effort to inform users of significant changes to these Terms at least 48 hours before the significant changes take effect, by utilizing one or more of the following methods:
 
 - By sending an email to the user's registered email address.
 - By displaying a notification within the Extension.
 
 This 48-hour notice period allows users to review the changes and make any necessary adjustments to their usage or credit purchases in response to the change in the Terms. It's part of our commitment to transparency and fairness.
 
-4.2 Continued use of the Extension after such modifications constitutes acceptance of the revised Terms.
+5.2 Continued use of the Extension after such modifications constitutes acceptance of the revised Terms.
 
-## 5. Limitation of Liability
-5.1 The Extension is provided "as is". The provider of the Extension shall not be held liable for any damages, losses, or liabilities arising from the use or inability to use the Extension.
+## 6. Limitation of Liability
+6.1 The Extension is provided "as is". The provider of the Extension shall not be held liable for any damages, losses, or liabilities arising from the use or inability to use the Extension.
 
-5.2 Users acknowledge that the provider of the Extension does not guarantee uninterrupted or error-free operation of the Extension.
+6.2 Users acknowledge that the provider of the Extension does not guarantee uninterrupted or error-free operation of the Extension.
 
-## 6. Governing Law
+## 7. Governing Law
 These Terms are governed by and construed in accordance with the principles of international law, without regard to its conflict of law principles.
 
-## 7. Privacy Policy
+## 8. Privacy Policy
 
 We are committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, and safeguard the personal information you provide when using the Extension.
 
