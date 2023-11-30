@@ -12,7 +12,7 @@ These terms and conditions ("Terms") govern the use of the WhereWasIt Chrome Ext
 
 1.5 Both free and purchased credits are subject to the expiry date. Once the credits expire, they are subject to removal from the account.
 
-1.6 An account with no valid credits is considered inactive. Once an account is inactive, we will keep the account for a grace period of one month. After that grace period, the account is subject to removal. Once an account is removed, it will not be possible to restore the indexed contents associated with that account.
+1.6 An account with no valid credits is considered inactive. We will retain the account in its entirety for a grace period of one month. After this grace period, the account and any associated data are subject to removal. Once an account or its associated data is removed, restoration is not possible.
 
 ## 2. Rates
 2.1 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
@@ -47,7 +47,9 @@ The provider aims to provide this notification within a reasonable timeframe con
 
 4.2 Users must refrain from using the Extension for any unlawful, unethical, or malicious purposes, including but not limited to infringing upon copyright, privacy, or other rights of third parties.
 
-4.3 Failure to comply with the responsibilities outlined in items 3.1 and 3.2 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users.
+4.3 Users are prohibited from sending requests to the Extension's backend through any means other than those explicitly provided by the Extension itself.
+
+4.4 Failure to comply with the responsibilities outlined in items 4.1-4.4 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users.
 
 ## 5. Modification of Terms
 5.1 These Terms may be revised or updated from time to time. The provider will make every effort to inform users of significant changes to these Terms at least 48 hours before the significant changes take effect, by utilizing one or more of the following methods:
