@@ -12,7 +12,7 @@ These terms and conditions ("Terms") govern the use of the WhereWasIt Chrome Ext
 
 1.5 Both free and purchased credits are subject to the expiry date. Once the credits expire, they are subject to removal from the account.
 
-1.6 An account with no valid credits is considered inactive. We will retain the account in its entirety for a grace period of one month. After this grace period, the account and any associated data are subject to removal. Once an account or its associated data is removed, restoration is not possible.
+1.6 When a user's account reaches zero or a negative balance of valid credits, there is a two-week window to replenish them. If credits are not purchased within this period, the account will be considered inactive. Acknowledging that unforeseen circumstances may cause delays, we provide an additional two-week grace period during which the user's account, in its entirety, is retained. Following this grace period, both the user's account and any associated data are subject to removal. Please note that once a user's account or its associated data is removed, restoration is not possible.
 
 ## 2. Rates
 2.1 The current rates for the Extension's services can be found [on the linked page](https://github.com/wherewasit/rates#the-current-rates-for-the-wherewasit-chrome-extension).
@@ -102,4 +102,4 @@ We do not share, sell, or disclose your personal information to any third party,
 ## Contact Information
 If you have any questions or concerns about these Terms, please contact us at feedback@wherewasit.xyz.
 
-Revised: November 28, 2023 at 14:30 UTC
+Revised: December 1, 2023 at 10:45 UTC
