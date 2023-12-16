@@ -49,7 +49,7 @@ The provider aims to provide this notification within a reasonable timeframe con
 
 4.3 Users are prohibited from sending requests to the Extension's backend through any means other than those explicitly provided by the Extension itself.
 
-4.4 Failure to comply with the responsibilities outlined in items 4.1-4.4 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users.
+4.4 Failure to comply with the responsibilities outlined in items 4.1-4.4 above may result in actions taken by the provider, which may include the suspension or termination of user accounts, as deemed necessary to uphold the integrity of the service and the rights of other users. If an account is suspended, the credits become unusable; if terminated, the credits are lost.
 
 ## 5. Modification of Terms
 5.1 These Terms may be revised or updated from time to time. The provider will make every effort to inform users of significant changes to these Terms at least 48 hours before the significant changes take effect, by utilizing one or more of the following methods:
@@ -102,4 +102,4 @@ We do not share, sell, or disclose your personal information to any third party,
 ## Contact Information
 If you have any questions or concerns about these Terms, please contact us at feedback@wherewasit.xyz.
 
-Revised: December 1, 2023 at 10:45 UTC
+Revised: December 16, 2023 at 19:10 UTC
